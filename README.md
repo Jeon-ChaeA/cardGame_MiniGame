@@ -10,12 +10,12 @@
 
 ### 미니게임프로젝트_ 카드 짝 맞추기 게임 
 **대표 기능**: 
-- 게임 플레이_사용자는 뒤집힌 카드 중 두 장을 선택하여 짝을 맞춥니다.
-              모든 카드를 맞추면 게임이 종료
-- 점수 시스템_맞춘 카드 쌍의 수를 기록하고 표시
-             총 8쌍의 카드를 모두 맞추면 "미션 클리어" 메시지가 표시
-- 시간 제한_게임은 120초의 제한 시간 내에 완료해야 합니다.
-            시간이 초과되면 "게임 오버" 메시지가 표시
+- 게임 플레이_사용자는 뒤집힌 카드 중 두 장을 선택하여 짝을 맞춥니다.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;모든 카드를 맞추면 게임이 종료
+- 점수 시스템_맞춘 카드 쌍의 수를 기록하고 표시<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;총 8쌍의 카드를 모두 맞추면 "미션 클리어" 메시지가 표시
+- 시간 제한_게임은 120초의 제한 시간 내에 완료해야 합니다.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;시간이 초과되면 "게임 오버" 메시지가 표시
 
 **사용자 인터페이스**:
 - 직관적인 게임 보드_사용자와 컴퓨터의 선택을 시각적으로 표시
@@ -51,7 +51,7 @@
 
 ## 🔗 링크
 
-- [카드 짝 맞추기게임](https://jeon-chaea.github.io/rockPaperScissorsGame/)
+- [카드 짝 맞추기게임](https://jeon-chaea.github.io/cardGame/)
 
 
 
