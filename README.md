@@ -51,7 +51,7 @@
 
 ## 🔗 링크
 
-- [카드 짝 맞추기게임](https://jeon-chaea.github.io/cardGame/)
+- [카드 짝 맞추기게임](https://jeon-chaea.github.io/cardGame_MiniGame/)
 
 
 
